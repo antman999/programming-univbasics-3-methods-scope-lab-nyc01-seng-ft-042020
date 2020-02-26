@@ -13,5 +13,5 @@ def link
   puts link1
 end
 
-def any_phrase 
+def any_phrase(phrase)
   
